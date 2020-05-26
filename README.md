@@ -1,6 +1,10 @@
 # k
 Exec into kubernetes pod easy (via kubectl)
 
+## Installation
+### macOS
+`brew install yggheim/tap/k`
+
 ## How it works
 - select a context from your kubectl config `~/.kube/config`
 - select pod from this context
